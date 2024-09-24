@@ -99,6 +99,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 # Output:
+![Uploading image.png…]()
 
 
 
